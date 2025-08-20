@@ -15,15 +15,15 @@ A real-time chat application built with **Flutter** and **Firebase**. This proje
 
 ---
 
-## 📸 Screenshots
+## 📸 Screenshots  
 
 | Sign Up Screen | Profile Screen |
-|--------------|----------------|
-| ![Login](screenshots/sign_up.jpg) | ![Chat Rooms](screenshots/profile.jpg) |
+|----------------|----------------|
+| <img src="screenshots/sign_up.jpg" width="250"/> | <img src="screenshots/profile.jpg" width="250"/> |
 
 | Chat Room List | Chat Screen |
-|----------------|------------------|
-| ![Profile](screenshots/chatrooms.jpg) | ![Chat](screenshots/chat.jpg) |
+|----------------|-------------|
+| <img src="screenshots/chatrooms.jpg" width="250"/> | <img src="screenshots/chat.jpg" width="250"/> |
 
 
 ---
