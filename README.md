@@ -17,13 +17,13 @@ A real-time chat application built with **Flutter** and **Firebase**. This proje
 
 ## 📸 Screenshots
 
-| Sign Up Screen | Chat Room List |
-|--------------|----------------|-------------|
-| ![Login](screenshots/sign_up.jpg) | ![Chat Rooms](screenshots/chatrooms.jpg) |
+| Sign Up Screen | Profile Screen |
+|--------------|----------------|
+| ![Login](screenshots/sign_up.jpg) | ![Chat Rooms](screenshots/profile.jpg) |
 
-| Profile Screen | Chat Screen |
+| Chat Room List | Chat Screen |
 |----------------|------------------|
-| ![Profile](screenshots/profile.jpg) | ![Chat](screenshots/chat.jpg) |
+| ![Profile](screenshots/chatrooms.jpg) | ![Chat](screenshots/chat.jpg) |
 
 
 ---
